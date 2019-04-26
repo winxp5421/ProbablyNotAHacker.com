@@ -15,11 +15,11 @@ postlist:
   post_type: preview
 rss_max_entries: 20
 site:
-  author: Example Author
-  base_url: ''
-  description: Example Site Description
-  keywords: example, pykwiki
-  title: Example Site
+  author: winxp5421
+  base_url: 'https://www.probablynotahacker.com/'
+  description: I am not really sure what this is to be honest. The general idea behind this is a community wiki.
+  keywords: 
+  title: Probablynotahacker.com
 source_dir: source
 source_ext: .md
 style: dark
