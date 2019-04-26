@@ -17,6 +17,7 @@ This is powered by Pykwiki all content source is written in markdown and convert
 
 Where to go from here:
 
+* Create a Post
 * Submit a Pull Request
 * That PR will be approved or denied by repo collaborators
 * Your work goes live
