@@ -6,6 +6,13 @@
     <description>I am not really sure what this is to be honest. The general idea behind this is a community wiki.</description>
     
     <item>
+        <title>Delegating Sub Domains</title>
+        <link>https://www.probablynotahacker.com//Delegating_Sub_Domains.html</link>
+        <pubDate>Fri, 26 Apr 2019 17:21:44 EDT</pubDate>
+        <description>DNS sub-domain delegation.</description>
+    </item>    
+    
+    <item>
         <title>Welcome</title>
         <link>https://www.probablynotahacker.com//README.html</link>
         <pubDate>Fri, 26 Apr 2019 16:55:00 EDT</pubDate>
