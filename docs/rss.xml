@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>Probablynotahacker.com</title>
+    <link>https://www.probablynotahacker.com//</link>
+    <description>I am not really sure what this is to be honest. The general idea behind this is a community wiki.</description>
+    
+    <item>
+        <title>Welcome</title>
+        <link>https://www.probablynotahacker.com//README.html</link>
+        <pubDate>Fri, 26 Apr 2019 16:55:00 EDT</pubDate>
+        <description>I dont know what this is or what it will be but its a thing that is on the internet.</description>
+    </item>    
+    
+</channel>
+</rss>

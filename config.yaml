@@ -23,7 +23,7 @@ site:
 source_dir: source
 source_ext: .md
 style: dark
-target_dir: docroot
+target_dir: docs
 theme: null
 time_format: '%H:%M:%S'
 timestamp_format: '%Y-%m-%d %H:%M'
